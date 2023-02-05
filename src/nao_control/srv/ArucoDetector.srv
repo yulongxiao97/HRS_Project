@@ -1,0 +1,12 @@
+#CREATE request parameters
+int8 time
+int8 id
+--------------------------------
+#CREATE response parameters
+<<<<<<< HEAD
+bool reply
+float64 angle
+float64 aruco_area
+=======
+geometry_msgs/Twist new_pos
+>>>>>>> 41b2e6078a3a1ce5d4d7b91f43849fc55d4be0a6
